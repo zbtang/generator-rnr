@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # generator-rnr [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > A Yeoman generator for React Native and Redux.
 
@@ -36,3 +37,6 @@ MIT © [zubintang](https://github.com/zbtang)
 [daviddm-url]: https://david-dm.org/zbtang/generator-rnr
 [coveralls-image]: https://coveralls.io/repos/zbtang/generator-rnr/badge.svg
 [coveralls-url]: https://coveralls.io/r/zbtang/generator-rnr
+=======
+# generator-rnr
+>>>>>>> 6bbcb4a2fc391584b5eca0e8dce44608d56c28d0
